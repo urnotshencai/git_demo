@@ -11,7 +11,10 @@ import {
     Text,
     View
 } from 'react-native';
+<<<<<<< HEAD
 var my = ‘aaaaaadie’;
+
+>>>>>>> 1d659580170b891a866d45453389390a6924516d
 //引入自定义组件
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
