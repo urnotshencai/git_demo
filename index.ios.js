@@ -11,7 +11,8 @@ import {
     Text,
     View
 } from 'react-native';
-var my = '网络上修改的数据';
+var my = ‘12345’;
+var you = ‘55555’;
 //引入自定义组件
 var Main = require("./component/Main");
 export default class DouBanDemo extends Component {
